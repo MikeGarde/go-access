@@ -3,7 +3,7 @@
 ##Log Formats
 
 AWS Elastic Beanstalk
-
+![AWS EB Log Setup](https://github.com/MikeGarde/go-access/blob/master/docs/aws-eb-setup.png?raw=true)
 
 ```bash
 docker build -t go-access . \
